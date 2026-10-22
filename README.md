@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:193454,100:4389bd&height=230&section=header&text=Damla%20Karaman&fontSize=48&fontColor=e6edf3&fontAlignY=38&desc=Software%20Engineer%20%7C%20AI%20%26%20Backend%20Development&descSize=18&descAlignY=58" width="100%" alt="Damla Karaman — Software Engineer, AI and Backend Development">
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0d1117,50:193454,100:4389bd&amp;height=230&amp;section=header&amp;text=Damla%20Karaman&amp;fontSize=48&amp;fontColor=e6edf3&amp;fontAlignY=38&amp;desc=Software%20Engineer%20%7C%20AI%20and%20Backend%20Development&amp;descSize=18&amp;descAlignY=58" width="100%" alt="Damla Karaman — Software Engineer">
 
 Building practical applications with code, data, and a little curiosity.
 
