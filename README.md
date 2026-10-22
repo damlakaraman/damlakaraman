@@ -1,63 +1,70 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0d1117,50:193454,100:4389bd&amp;height=230&amp;section=header&amp;text=Damla%20Karaman&amp;fontSize=48&amp;fontColor=e6edf3&amp;fontAlignY=38&amp;desc=Software%20Engineer%20%7C%20AI%20and%20Backend%20Development&amp;descSize=18&amp;descAlignY=58" width="100%" alt="Damla Karaman — Software Engineer">
-
-Building practical applications with code, data, and a little curiosity.
-
-<br>
-
-<a href="https://www.linkedin.com/in/damla-karaman-6201a2269/">
-  <img src="https://img.shields.io/badge/LinkedIn-Let's_connect-2474B5?style=for-the-badge" alt="Connect on LinkedIn">
-</a>
-<a href="https://github.com/damlakaraman?tab=repositories">
-  <img src="https://img.shields.io/badge/GitHub-My_projects-334D73?style=for-the-badge&logo=github&logoColor=white" alt="Explore my projects">
-</a>
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0d1117,50:193454,100:4389bd&amp;height=210&amp;section=header&amp;text=Damla%20Karaman&amp;fontSize=46&amp;fontColor=e6edf3&amp;fontAlignY=36&amp;desc=Software%20Engineer%20%7C%20AI%20and%20Backend%20Development&amp;descSize=17&amp;descAlignY=56" width="100%" alt="Damla Karaman — Software Engineer">
 
 </div>
 
-## A little about me
+<table>
+<tr>
+<td width="56%" valign="middle">
 
-I'm a Software Engineering graduate interested in **backend development, machine learning, and AI-powered image and video processing**.
+<h2>Hi, I'm Damla ✨</h2>
 
-During my long-term internship at Yıldız Technical University Technopark, I worked on image and video captioning pipelines using **Python, FastAPI, FFmpeg, and vision-language models**.
+<p>A Software Engineering graduate interested in <b>backend development, machine learning, and AI-powered image and video processing.</b></p>
 
-- 🎬 My experience includes scene detection, keyframe extraction, and caption generation.
-- 🛠️ I enjoy connecting models, APIs, and processing steps into working applications.
-- 🌱 Currently focusing on cleaner Python code, backend services, and software architecture.
-- 📍 Based in Türkiye and open to relocating to İstanbul for software engineering opportunities.
-- 📚 Away from the keyboard, you'll often find me with a book.
+<p>During my long-term internship at Yıldız Technical University Technopark, I worked on image and video captioning pipelines using Python, FastAPI, FFmpeg, and vision-language models.</p>
+
+<p>🎬 <b>Experience:</b> Scene detection, keyframe extraction, and caption generation.</p>
+
+<p>🌱 <b>Currently exploring:</b> Cleaner Python code, backend services, and software architecture.</p>
+
+<p>📍 <b>Open to:</b> Software engineering opportunities and relocating to İstanbul.</p>
+
+<p>📚 <b>Beyond code:</b> Books, curiosity, and the next chapter.</p>
+
+</td>
+<td width="44%" align="center" valign="middle">
+
+<img src="./developer-damla.png" width="420" alt="Illustration of Damla coding at her laptop with a blue book beside her">
+
+</td>
+</tr>
+</table>
 
 ## My toolbox
 
 **Languages**
 
-![Python](https://img.shields.io/badge/Python-182C47?style=for-the-badge&logo=python&logoColor=9DCAFF)
-![JavaScript](https://img.shields.io/badge/JavaScript-182C47?style=for-the-badge&logo=javascript&logoColor=9DCAFF)
-![C#](https://img.shields.io/badge/C%23-182C47?style=for-the-badge)
-![Java](https://img.shields.io/badge/Java-182C47?style=for-the-badge&logo=openjdk&logoColor=9DCAFF)
-![SQL](https://img.shields.io/badge/SQL-182C47?style=for-the-badge)
+<p>
+<img src="https://skillicons.dev/icons?i=python,js,cs,java&amp;theme=dark" height="45" alt="Python, JavaScript, C sharp, Java">
+<img src="https://img.shields.io/badge/SQL-182C47?style=for-the-badge" height="45" alt="SQL">
+</p>
 
 **Web & Backend**
 
-![HTML5](https://img.shields.io/badge/HTML5-182C47?style=for-the-badge&logo=html5&logoColor=9DCAFF)
-![CSS3](https://img.shields.io/badge/CSS3-182C47?style=for-the-badge&logo=css&logoColor=9DCAFF)
-![FastAPI](https://img.shields.io/badge/FastAPI-182C47?style=for-the-badge&logo=fastapi&logoColor=9DCAFF)
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,fastapi&amp;theme=dark" height="45" alt="HTML, CSS, FastAPI">
+</p>
 
 **Data & AI**
 
-![Pandas](https://img.shields.io/badge/Pandas-182C47?style=for-the-badge&logo=pandas&logoColor=9DCAFF)
-![NumPy](https://img.shields.io/badge/NumPy-182C47?style=for-the-badge&logo=numpy&logoColor=9DCAFF)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-182C47?style=for-the-badge&logo=scikitlearn&logoColor=9DCAFF)
+<p>
+<img src="https://img.shields.io/badge/Pandas-182C47?style=for-the-badge&amp;logo=pandas&amp;logoColor=9DCAFF" alt="Pandas">
+<img src="https://img.shields.io/badge/NumPy-182C47?style=for-the-badge&amp;logo=numpy&amp;logoColor=9DCAFF" alt="NumPy">
+<img src="https://img.shields.io/badge/scikit--learn-182C47?style=for-the-badge&amp;logo=scikitlearn&amp;logoColor=9DCAFF" alt="scikit-learn">
+</p>
 
 **Tools**
 
-![Git](https://img.shields.io/badge/Git-182C47?style=for-the-badge&logo=git&logoColor=9DCAFF)
-![Postman](https://img.shields.io/badge/Postman-182C47?style=for-the-badge&logo=postman&logoColor=9DCAFF)
-![FFmpeg](https://img.shields.io/badge/FFmpeg-182C47?style=for-the-badge&logo=ffmpeg&logoColor=9DCAFF)
+<p>
+<img src="https://skillicons.dev/icons?i=git,postman&amp;theme=dark" height="45" alt="Git, Postman">
+<img src="https://img.shields.io/badge/FFmpeg-182C47?style=for-the-badge&amp;logo=ffmpeg&amp;logoColor=9DCAFF" height="45" alt="FFmpeg">
+</p>
 
 ## Selected projects
 
 ### 🎬 Image & Video Processing
+
 [**video_data →**](https://github.com/damlakaraman/video_data)
 
 Internship work on scene detection, keyframe extraction, and image/video captioning workflows.
@@ -65,6 +72,7 @@ Internship work on scene detection, keyframe extraction, and image/video caption
 **Python · FastAPI · FFmpeg · PySceneDetect · CLIP · Qwen · Wasabi S3**
 
 ### 🎯 NextRole
+
 [**Explore the repository →**](https://github.com/damlakaraman/nextrole)
 
 A web application for tracking job applications and interview processes in one place.
@@ -72,6 +80,7 @@ A web application for tracking job applications and interview processes in one p
 **JavaScript · Application tracking · User interface**
 
 ### 🔎 Software Defect Risk
+
 [**yazilim-hata-riski →**](https://github.com/damlakaraman/yazilim-hata-riski)
 
 A machine learning project exploring software defect prediction and prioritizing module reviews using the JM1 dataset.
@@ -79,11 +88,20 @@ A machine learning project exploring software defect prediction and prioritizing
 **Python · Machine learning · Model evaluation**
 
 ### 🛒 E-commerce Session Analysis
+
 [**e-ticaret-oturum-analizi →**](https://github.com/damlakaraman/e-ticaret-oturum-analizi)
 
 Analysis and prediction of online shopping purchase intention using Python and scikit-learn, developed in Google Colab.
 
 **Data analysis · Visualization · Classification**
+
+## GitHub activity
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=damlakaraman&amp;background=0D1117&amp;border=30363D&amp;stroke=30363D&amp;ring=9DCAFF&amp;fire=58A6FF&amp;currStreakNum=E6EDF3&amp;sideNums=E6EDF3&amp;currStreakLabel=9DCAFF&amp;sideLabels=9DCAFF&amp;dates=8B949E" alt="Damla's GitHub contribution and streak statistics" width="520">
+
+</div>
 
 ## Contribution snake 🐍
 
@@ -101,8 +119,11 @@ Analysis and prediction of online shopping purchase intention using Python and s
 
 Interested in my work or have an opportunity to share?
 
-[Find me on LinkedIn](https://www.linkedin.com/in/damla-karaman-6201a2269/)
+<a href="https://www.linkedin.com/in/damla-karaman-6201a2269/">
+<img src="https://skillicons.dev/icons?i=linkedin&amp;theme=dark" width="45" height="45" alt="Connect with Damla on LinkedIn">
+</a>
 
+<br>
 <br>
 
 <sub>Code, curiosity, and the next chapter. 🌙</sub>
