@@ -37,7 +37,7 @@
 
 <p>
 <img src="https://skillicons.dev/icons?i=python,js,cs,java&amp;theme=dark" height="45" alt="Python, JavaScript, C sharp, Java">
-<img src="https://img.shields.io/badge/SQL-182C47?style=for-the-badge" height="45" alt="SQL">
+<img src="https://api.iconify.design/mdi/database.svg?color=%239DCAFF" width="45" height="45" alt="SQL" title="SQL">
 </p>
 
 **Web & Backend**
@@ -46,11 +46,19 @@
 <img src="https://skillicons.dev/icons?i=html,css,fastapi&amp;theme=dark" height="45" alt="HTML, CSS, FastAPI">
 </p>
 
+**Data & AI**
+
+<p>
+<img src="https://img.shields.io/badge/Pandas-182C47?style=for-the-badge&amp;logo=pandas&amp;logoColor=9DCAFF" alt="Pandas">
+<img src="https://img.shields.io/badge/NumPy-182C47?style=for-the-badge&amp;logo=numpy&amp;logoColor=9DCAFF" alt="NumPy">
+<img src="https://img.shields.io/badge/scikit--learn-182C47?style=for-the-badge&amp;logo=scikitlearn&amp;logoColor=9DCAFF" alt="scikit-learn">
+</p>
+
 **Tools**
 
 <p>
 <img src="https://skillicons.dev/icons?i=git,postman&amp;theme=dark" height="45" alt="Git, Postman">
-<img src="https://img.shields.io/badge/FFmpeg-182C47?style=for-the-badge&amp;logo=ffmpeg&amp;logoColor=9DCAFF" height="45" alt="FFmpeg">
+<img src="https://api.iconify.design/simple-icons/ffmpeg.svg?color=%239DCAFF" width="45" height="45" alt="FFmpeg" title="FFmpeg">
 </p>
 
 ## Selected projects
@@ -114,6 +122,15 @@ Interested in my work or have an opportunity to share?
 <a href="https://www.linkedin.com/in/damla-karaman-6201a2269/">
 <img src="https://skillicons.dev/icons?i=linkedin&amp;theme=dark" width="45" height="45" alt="Connect with Damla on LinkedIn">
 </a>
+&nbsp;
+<a href="mailto:damla.karaman0808@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail&amp;theme=dark" width="45" height="45" alt="Email Damla">
+</a>
+
+<br>
+<br>
+
+<a href="mailto:damla.karaman0808@gmail.com">damla.karaman0808@gmail.com</a>
 
 <br>
 <br>
