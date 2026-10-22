@@ -31,25 +31,31 @@
 </tr>
 </table>
 
-## My toolbox
+<h2>My toolbox</h2>
 
-**Languages**
+<p><b>Languages</b></p>
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,js,cs,java&amp;theme=dark" height="45" alt="Python, JavaScript, C sharp, Java">
+<img src="https://skillicons.dev/icons?i=python&amp;theme=dark" width="45" height="45" alt="Python" title="Python">
+<img src="https://skillicons.dev/icons?i=js&amp;theme=dark" width="45" height="45" alt="JavaScript" title="JavaScript">
+<img src="https://skillicons.dev/icons?i=cs&amp;theme=dark" width="45" height="45" alt="C#" title="C#">
+<img src="https://skillicons.dev/icons?i=java&amp;theme=dark" width="45" height="45" alt="Java" title="Java">
 <img src="https://api.iconify.design/mdi/database.svg?color=%239DCAFF" width="45" height="45" alt="SQL" title="SQL">
 </p>
 
-**Web & Backend**
+<p><b>Web &amp; Backend</b></p>
 
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,fastapi&amp;theme=dark" height="45" alt="HTML, CSS, FastAPI">
+<img src="https://skillicons.dev/icons?i=html&amp;theme=dark" width="45" height="45" alt="HTML5" title="HTML5">
+<img src="https://skillicons.dev/icons?i=css&amp;theme=dark" width="45" height="45" alt="CSS3" title="CSS3">
+<img src="https://skillicons.dev/icons?i=fastapi&amp;theme=dark" width="45" height="45" alt="FastAPI" title="FastAPI">
 </p>
 
-**Tools**
+<p><b>Tools</b></p>
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,postman&amp;theme=dark" height="45" alt="Git, Postman">
+<img src="https://skillicons.dev/icons?i=git&amp;theme=dark" width="45" height="45" alt="Git" title="Git">
+<img src="https://skillicons.dev/icons?i=postman&amp;theme=dark" width="45" height="45" alt="Postman" title="Postman">
 <img src="https://api.iconify.design/simple-icons/ffmpeg.svg?color=%239DCAFF" width="45" height="45" alt="FFmpeg" title="FFmpeg">
 </p>
 
