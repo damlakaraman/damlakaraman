@@ -46,14 +46,6 @@
 <img src="https://skillicons.dev/icons?i=html,css,fastapi&amp;theme=dark" height="45" alt="HTML, CSS, FastAPI">
 </p>
 
-**Data & AI**
-
-<p>
-<img src="https://img.shields.io/badge/Pandas-182C47?style=for-the-badge&amp;logo=pandas&amp;logoColor=9DCAFF" alt="Pandas">
-<img src="https://img.shields.io/badge/NumPy-182C47?style=for-the-badge&amp;logo=numpy&amp;logoColor=9DCAFF" alt="NumPy">
-<img src="https://img.shields.io/badge/scikit--learn-182C47?style=for-the-badge&amp;logo=scikitlearn&amp;logoColor=9DCAFF" alt="scikit-learn">
-</p>
-
 **Tools**
 
 <p>
@@ -115,22 +107,17 @@ Analysis and prediction of online shopping purchase intention using Python and s
 
 <div align="center">
 
-### Let's connect
+<h3>Let's connect</h3>
 
-Interested in my work or have an opportunity to share?
+<p>Interested in my work or have an opportunity to share?</p>
 
 <a href="https://www.linkedin.com/in/damla-karaman-6201a2269/">
-<img src="https://skillicons.dev/icons?i=linkedin&amp;theme=dark" width="45" height="45" alt="Connect with Damla on LinkedIn">
+<img src="https://skillicons.dev/icons?i=linkedin&amp;theme=dark" width="45" height="45" alt="LinkedIn">
 </a>
 &nbsp;
 <a href="mailto:damla.karaman0808@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail&amp;theme=dark" width="45" height="45" alt="Email Damla">
 </a>
-
-<br>
-<br>
-
-<a href="mailto:damla.karaman0808@gmail.com">damla.karaman0808@gmail.com</a>
 
 <br>
 <br>
