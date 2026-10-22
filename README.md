@@ -46,14 +46,6 @@
 <img src="https://skillicons.dev/icons?i=html,css,fastapi&amp;theme=dark" height="45" alt="HTML, CSS, FastAPI">
 </p>
 
-**Data & AI**
-
-<p>
-<img src="https://img.shields.io/badge/Pandas-182C47?style=for-the-badge&amp;logo=pandas&amp;logoColor=9DCAFF" alt="Pandas">
-<img src="https://img.shields.io/badge/NumPy-182C47?style=for-the-badge&amp;logo=numpy&amp;logoColor=9DCAFF" alt="NumPy">
-<img src="https://img.shields.io/badge/scikit--learn-182C47?style=for-the-badge&amp;logo=scikitlearn&amp;logoColor=9DCAFF" alt="scikit-learn">
-</p>
-
 **Tools**
 
 <p>
