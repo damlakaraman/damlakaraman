@@ -35,30 +35,50 @@ During my long-term internship at Yıldız Technical University Technopark, I wo
 
 ## My toolbox
 
-**Backend & development**
+### Programming languages
 
 ![Python](https://img.shields.io/badge/Python-182C47?style=for-the-badge&logo=python&logoColor=9DCAFF)
-![FastAPI](https://img.shields.io/badge/FastAPI-182C47?style=for-the-badge&logo=fastapi&logoColor=9DCAFF)
 ![JavaScript](https://img.shields.io/badge/JavaScript-182C47?style=for-the-badge&logo=javascript&logoColor=9DCAFF)
-![Git](https://img.shields.io/badge/Git-182C47?style=for-the-badge&logo=git&logoColor=9DCAFF)
+
+### Web foundations
+
+![HTML5](https://img.shields.io/badge/HTML5-182C47?style=for-the-badge&logo=html5&logoColor=9DCAFF)
+![CSS3](https://img.shields.io/badge/CSS3-182C47?style=for-the-badge&logo=css&logoColor=9DCAFF)
+
+### Backend & APIs
+
+![FastAPI](https://img.shields.io/badge/FastAPI-182C47?style=for-the-badge&logo=fastapi&logoColor=9DCAFF)
+![REST APIs](https://img.shields.io/badge/REST_APIs-182C47?style=for-the-badge)
 ![Postman](https://img.shields.io/badge/Postman-182C47?style=for-the-badge&logo=postman&logoColor=9DCAFF)
 
-**Data & machine learning**
+### Data & machine learning
 
 ![Pandas](https://img.shields.io/badge/Pandas-182C47?style=for-the-badge&logo=pandas&logoColor=9DCAFF)
 ![NumPy](https://img.shields.io/badge/NumPy-182C47?style=for-the-badge&logo=numpy&logoColor=9DCAFF)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-182C47?style=for-the-badge&logo=scikitlearn&logoColor=9DCAFF)
-![Colab](https://img.shields.io/badge/Google_Colab-182C47?style=for-the-badge&logo=googlecolab&logoColor=9DCAFF)
 
-**Image & video workflows**
+### Image & video processing
 
-`FFmpeg` · `PySceneDetect` · `CLIP` · `Qwen` · `Keyframe Extraction` · `Wasabi S3`
+![FFmpeg](https://img.shields.io/badge/FFmpeg-182C47?style=for-the-badge&logo=ffmpeg&logoColor=9DCAFF)
+![PySceneDetect](https://img.shields.io/badge/PySceneDetect-182C47?style=for-the-badge)
+![CLIP](https://img.shields.io/badge/CLIP-182C47?style=for-the-badge)
+![Qwen](https://img.shields.io/badge/Qwen-182C47?style=for-the-badge)
+
+Scene detection · Keyframe extraction · Image & video captioning
+
+### Development tools & storage
+
+![Git](https://img.shields.io/badge/Git-182C47?style=for-the-badge&logo=git&logoColor=9DCAFF)
+![GitHub](https://img.shields.io/badge/GitHub-182C47?style=for-the-badge&logo=github&logoColor=9DCAFF)
+![Google Colab](https://img.shields.io/badge/Google_Colab-182C47?style=for-the-badge&logo=googlecolab&logoColor=9DCAFF)
+![Wasabi S3](https://img.shields.io/badge/Wasabi_S3-182C47?style=for-the-badge)
 
 ---
 
 ## Selected projects
 
 ### 🎬 Image & Video Processing
+
 [**video_data →**](https://github.com/damlakaraman/video_data)
 
 Internship work on image and video processing, including scene detection, keyframe extraction, and captioning workflows.
@@ -68,6 +88,7 @@ Internship work on image and video processing, including scene detection, keyfra
 <br>
 
 ### 🎯 NextRole
+
 [**Explore the repository →**](https://github.com/damlakaraman/nextrole)
 
 A web application for tracking job applications and interview processes in one place.
@@ -77,6 +98,7 @@ A web application for tracking job applications and interview processes in one p
 <br>
 
 ### 🔎 Software Defect Risk
+
 [**yazilim-hata-riski →**](https://github.com/damlakaraman/yazilim-hata-riski)
 
 A machine learning project exploring software defect prediction and prioritizing module reviews using the JM1 dataset.
@@ -86,6 +108,7 @@ A machine learning project exploring software defect prediction and prioritizing
 <br>
 
 ### 🛒 E-commerce Session Analysis
+
 [**e-ticaret-oturum-analizi →**](https://github.com/damlakaraman/e-ticaret-oturum-analizi)
 
 Analysis and prediction of online shopping purchase intention using Python and scikit-learn, developed in Google Colab.
@@ -99,6 +122,16 @@ Analysis and prediction of online shopping purchase intention using Python and s
 - Turning AI experiments into applications with clear, usable workflows.
 - Writing cleaner, more maintainable Python code.
 - Building backend services and improving my understanding of software architecture.
+
+---
+
+## 🐍 Contribution snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/damlakaraman/damlakaraman/output/snake.svg" alt="Blue snake animation of my GitHub contributions" width="100%">
+
+</div>
 
 ---
 
