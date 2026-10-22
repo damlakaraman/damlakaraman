@@ -39,6 +39,9 @@ During my long-term internship at Yıldız Technical University Technopark, I wo
 
 ![Python](https://img.shields.io/badge/Python-182C47?style=for-the-badge&logo=python&logoColor=9DCAFF)
 ![JavaScript](https://img.shields.io/badge/JavaScript-182C47?style=for-the-badge&logo=javascript&logoColor=9DCAFF)
+![C#](https://img.shields.io/badge/C%23-182C47?style=for-the-badge)
+![Java](https://img.shields.io/badge/Java-182C47?style=for-the-badge&logo=openjdk&logoColor=9DCAFF)
+![SQL](https://img.shields.io/badge/SQL-182C47?style=for-the-badge)
 
 ### Web foundations
 
